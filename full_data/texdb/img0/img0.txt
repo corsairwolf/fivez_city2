@@ -1,0 +1,18 @@
+cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
+"afk_icon" camnorm=1 alphamode=2 height=64 width=64 img=ca3f637b
+"cstoolkit" camnorm=1 alphamode=2 height=256 width=256 img=7bb1ef8d
+"m_backpack" camnorm=1 alphamode=2 height=64 width=64 img=b3c7da05
+"m_car" camnorm=1 alphamode=2 height=64 width=64 img=57f8d6ff
+"m_dance" camnorm=1 alphamode=2 height=64 width=64 img=ac1ac765
+"m_job" camnorm=1 alphamode=2 height=64 width=64 img=39173592
+"m_passenger" camnorm=1 alphamode=2 height=256 width=256 img=5254ca55
+"m_phone" camnorm=1 alphamode=2 height=64 width=64 img=a32fb80c
+"m_talk" camnorm=1 alphamode=2 height=64 width=64 img=514a14d9
+"radardisc_r" camnorm=1 alphamode=2 height=256 width=256 img=20fb7436
+"siteM16" camnorm=1 alphamode=2 height=64 width=64 img=bdffa9bc
+"speakers" camnorm=1 alphamode=2 height=256 width=256 img=931205ca
+"voiceactive" camnorm=1 alphamode=2 height=256 width=256 img=f687a96c
+"voicemuted" camnorm=1 alphamode=2 height=256 width=256 img=88d305a1
+"voicepassive" camnorm=1 alphamode=2 height=256 width=256 img=4bc097da
+"mylogo" camnorm=1 alphamode=2 height=512 width=1024 img=748a33dd png=f82f7a37
+"i_cuff" camnorm=1 alphamode=2 height=32 width=32 img=c08b931a png=02c3c010
