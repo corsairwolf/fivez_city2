@@ -46,3 +46,4 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "W05_WING" camnorm=1 alphamode=2 height=512 width=512 img=0857b317 png=92cbc8be
 "W06_WING" camnorm=1 alphamode=2 height=256 width=256 img=3a051d03 png=7ff9d4e0
 "footballred" camnorm=1 alphamode=2 height=512 width=512 img=17b74ceb png=d874d4e3
+"watergun" camnorm=1 alphamode=2 height=512 width=512 img=b6005365 png=18a12c5d
