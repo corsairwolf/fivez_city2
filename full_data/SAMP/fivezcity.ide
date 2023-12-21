@@ -1,0 +1,8 @@
+# skin
+peds
+#16791,	skintest1,	skintest1, CIVMALE, STAT_STD_MISSION, man, 1FFF, 0, null, 9,9, PED_TYPE_SPC, VOICE_GNG_MACCER , VOICE_GNG_MACCER
+end
+# object
+objs
+#14000, prison, prison, 299, 0
+end
