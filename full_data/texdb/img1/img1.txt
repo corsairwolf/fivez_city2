@@ -63,3 +63,18 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "afternoon_sky_1" camnorm=1 alphamode=2 height=2048 width=2048 img=a82ca744 png=d342ab13
 "daily_sky_1" camnorm=1 alphamode=2 height=2048 width=2048 img=ee967fc7 png=3d4e1d4b
 "night_sky_1" camnorm=1 alphamode=2 height=2048 width=2048 img=ea2e2256 png=f82117db
+"M_Candy_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=5d2873ae
+"M_Ice_02_baseColor" camnorm=1 alphamode=2 height=64 width=64 img=81884bea
+"M_Ice_baseColor" camnorm=1 alphamode=2 height=64 width=64 img=67c1a478
+"M_Land_baseColor" camnorm=1 alphamode=2 height=1024 width=1024 img=5947f8e0
+"M_snow_01" camnorm=1 alphamode=2 height=64 width=64 img=e7da8f80
+"M_snow_02" camnorm=1 alphamode=2 height=64 width=64 img=963bc280
+"M_snow_03" camnorm=1 alphamode=2 height=64 width=64 img=d6f46700
+"M_Tree_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=02af11e9
+"M_word_baseColor" camnorm=1 alphamode=2 height=64 width=64 img=835a1470
+"M_Bbox_01_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=495610aa
+"M_Box_02_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=62467108
+"M_Box_03_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=bbb49e08
+"M_Box_04_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=d82cc194
+"M_Box_05_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=052386d4
+"M_Box_06_baseColor" camnorm=1 alphamode=2 height=512 width=512 img=cc8085ea
