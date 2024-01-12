@@ -78,3 +78,7 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "M_Box_04_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=d82cc194
 "M_Box_05_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=052386d4
 "M_Box_06_baseColor" camnorm=1 alphamode=2 height=512 width=512 img=cc8085ea
+"DefaultMaterial_baseColor" camnorm=1 alphamode=2 height=256 width=256 img=a7e94203
+"lambert1_Base_Color" camnorm=1 alphamode=2 height=256 width=256 img=e4c04012
+"mushroom_enviroment" camnorm=1 alphamode=2 height=256 width=256 img=72db32bc
+"wire_135059008_Base_Color" camnorm=1 alphamode=2 height=256 width=256 img=03b7c0fc

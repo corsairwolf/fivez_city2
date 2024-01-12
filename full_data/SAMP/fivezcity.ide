@@ -6,4 +6,7 @@ end
 objs
 14000, detail_snow, detail_snow, 299, 0
 14001, ground_snow, ground_snow, 299, 0
+14002, redstone, redstone, 299, 0
+14003, cactus, cactus, 299, 0
+14004, mushroom, mushroom, 299, 0
 end
