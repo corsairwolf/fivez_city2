@@ -116,3 +116,17 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "tin_face_base" camnorm=1 alphamode=2 height=1024 width=512 img=0006e1d8 png=06a1e1ce
 "tin_sitamatuge" camnorm=1 alphamode=2 height=128 width=256 img=dbcfa9e6 png=e9667979
 "tin_uematuge_base" camnorm=1 alphamode=2 height=64 width=128 img=02be33ab png=338815f5
+"647X (1)" height=64 width=64 img=5c0dde00 png=e6e8253c
+"647X (2)" height=512 width=512 img=343e6099 png=26ad952c
+"647X (3)" height=512 width=512 img=54b03e26 png=0630932b
+"647X (4)" height=512 width=512 img=55c2f10a png=e51d03c3
+"647X (5)" height=512 width=512 img=f6e85c7d png=113c3d54
+"647X (6)" height=512 width=512 img=4f8e65cb png=07ae2019
+"647X (7)" height=256 width=256 img=3932c9a2 png=8a756b70
+"648X (1)" "affiliate=647X (4)" png=e51d03c3
+"648X (2)" height=256 width=256 img=95e61371 png=785140d3
+"648X (3)" height=256 width=256 img=a7ad7aab png=066fb0f4
+"648X (4)" height=256 width=256 img=a83f600a png=331bca32
+"648X (5)" height=512 width=512 img=03bcd610 png=fe733cc2
+"648X (6)" height=512 width=512 img=9a8cf0bf png=8ccada08
+"648X (7)" height=512 width=512 img=e24874cc png=84159dcd
