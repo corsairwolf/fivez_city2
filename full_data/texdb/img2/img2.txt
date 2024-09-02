@@ -130,3 +130,20 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "648X (5)" height=512 width=512 img=03bcd610 png=fe733cc2
 "648X (6)" height=512 width=512 img=9a8cf0bf png=8ccada08
 "648X (7)" height=512 width=512 img=e24874cc png=84159dcd
+"684X (1)" camnorm=1 alphamode=2 height=256 width=256 img=08ecb71d png=52fa8734
+"684X (2)" camnorm=1 alphamode=2 height=512 width=512 img=6a355604 png=63f304a0
+"684X (3)" "affiliate=647X (7)" png=14d70537
+"684X (5)" camnorm=1 alphamode=2 height=256 width=256 img=21567bbf png=42211019
+"684X (6)" camnorm=1 alphamode=2 height=256 width=256 img=becccbed png=16024f79
+"684X (7)" camnorm=1 alphamode=2 height=256 width=256 img=358d5414 png=7f111ff6
+"684X (8)" camnorm=1 alphamode=2 height=256 width=256 img=d10ac29d png=01f0c8db
+"684X (9)" camnorm=1 alphamode=2 height=256 width=256 img=b9396b3f png=f4f329a6
+"684X (10)" camnorm=1 alphamode=2 height=128 width=128 img=6030d7bc png=aaa132f8
+"684X" camnorm=1 alphamode=2 height=64 width=64 img=c6fc9780 png=3064eb91
+"685X (2)" camnorm=1 alphamode=2 height=512 width=512 img=530888b5 png=2de989f9
+"685X (4)" camnorm=1 alphamode=2 height=256 width=256 img=8a28cece png=348899a0
+"685X (5)" camnorm=1 alphamode=2 height=256 width=256 img=9f243089 png=50bb1fba
+"685X (6)" camnorm=1 alphamode=2 height=64 width=64 img=7c7fd000 png=cfe10636
+"685X (7)" camnorm=1 alphamode=2 height=256 width=256 img=5a0e7663 png=7b8368a3
+"685X (8)" camnorm=1 alphamode=2 height=64 width=256 img=ff886244 png=23a7dfcb
+"684X (11)" camnorm=1 alphamode=2 height=128 width=128 img=d8b5d072 png=ae646248

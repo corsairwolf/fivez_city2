@@ -1,7 +1,6 @@
 cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "battlez_axe" camnorm=1 alphamode=2 height=256 width=256 img=be51d263
 "bladez" camnorm=1 alphamode=2 height=512 width=512 img=05dd3fd1
-"T" camnorm=1 alphamode=2 height=256 width=512 img=7bd1be4c
 "wcamo_1" camnorm=1 alphamode=2 height=128 width=128 img=2f8d3261
 "woodz" camnorm=1 alphamode=2 height=128 width=128 img=a0781e26
 "Ape_by_mta_h1z1" camnorm=1 alphamode=2 height=512 width=512 img=fb574303 png=f74e49f4
@@ -74,3 +73,19 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "hat_duck_Best4" camnorm=1 alphamode=2 height=256 width=256 img=0c71e51c png=88f15e3f
 "W_TD" camnorm=1 alphamode=2 height=256 width=256 img=5215372c png=d8bbea76
 "colot_tent" camnorm=1 alphamode=2 height=128 width=128 img=3fdad8de png=bd34794a
+"T" camnorm=1 alphamode=2 height=256 width=512 img=e2ed5dd6 png=ace024c4
+"beebag_01" camnorm=1 alphamode=2 height=512 width=512 img=a5ef5512 png=d0714af6
+"beebag_02" camnorm=1 alphamode=2 height=512 width=512 img=fcaf84cf png=de19635d
+"beehat01" camnorm=1 alphamode=2 height=512 width=512 img=cb2d7698 png=3542274f
+"beehat02" camnorm=1 alphamode=2 height=512 width=512 img=565864cc png=c8698603
+"bunny_mtah1z1" camnorm=1 alphamode=2 height=256 width=256 img=9225fe9e png=f9084367
+"hat_gesso_color1" camnorm=1 alphamode=2 height=128 width=128 img=19a45047 png=8e43efaf
+"hat_penguin_color" camnorm=1 alphamode=2 height=128 width=128 img=84d20871 png=e3b05be4
+"hat_shark_color" camnorm=1 alphamode=2 height=64 width=64 img=0b55e329 png=69f40910
+"MANAO_BAG_CUTE" camnorm=1 alphamode=2 height=512 width=512 img=937ce3c3 png=6378893a
+"bs" camnorm=1 alphamode=2 height=256 width=256 img=904a7b18 png=97610a9a
+"bs2" camnorm=1 alphamode=2 height=256 width=256 img=9ba0fa68 png=6c392dd9
+"bs4" camnorm=1 alphamode=2 height=256 width=256 img=dd9df019 png=0df94f14
+"bs5" camnorm=1 alphamode=2 height=256 width=256 img=791fb188 png=6f251caa
+"bs6" camnorm=1 alphamode=2 height=256 width=256 img=707cc2cb png=53c7b610
+"bs7" camnorm=1 alphamode=2 height=256 width=256 img=6d4c7480 png=4e3e04d6

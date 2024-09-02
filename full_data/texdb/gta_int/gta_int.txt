@@ -2540,3 +2540,11 @@ cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=2 defaultstream=0
 "andydark_bigsfsave" "affiliate=andydark_svvgmd"
 "black256_SCUMMY" "affiliate=andydark_svvgmd"
 "black256_GAP" "affiliate=andydark_svvgmd"
+"bluefoil" camnorm=1 alphamode=2 height=64 width=64 img=50b03dc8 png=3a4ab84f
+"redrailing" camnorm=1 alphamode=2 height=64 width=64 img=fc55e998 png=82ceb2d1
+"snow2" camnorm=1 alphamode=2 height=512 width=512 img=52ccbb15 png=78b9236b
+"sign" "affiliate=andydark_svvgmd" png=55c27104
+"materialtext1" camnorm=1 alphamode=2 height=64 width=64 img=7c334e80 png=f5f22350
+"metallamppost4" camnorm=1 alphamode=2 height=128 width=128 img=71bdc271 png=4e678a48
+"cowboyhat3" camnorm=1 alphamode=2 height=256 width=256 img=308dc802 png=4bf2ded1
+"grey-80-percent" camnorm=1 alphamode=2 height=32 width=32 img=40ff8ea0 png=7c86b852
