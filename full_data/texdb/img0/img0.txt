@@ -22,3 +22,5 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "gcloading3" camnorm=1 alphamode=2 height=128 width=128 img=52195d7e png=82d09dde
 "gcloading4" camnorm=1 alphamode=2 height=128 width=128 img=9307e904 png=ee9354f3
 "i_cuff" camnorm=1 alphamode=2 height=64 width=64 img=553b84b5 png=c555e3d7
+"m_passengerdb" camnorm=1 alphamode=2 height=256 width=256 img=f80cc8e8 png=0612e6cc
+"m_passengerdbclose" camnorm=1 alphamode=2 height=256 width=256 img=0726c2d1 png=c4e744dd
