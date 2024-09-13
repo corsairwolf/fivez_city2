@@ -15,12 +15,13 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "voicemuted" camnorm=1 alphamode=2 height=256 width=256 img=88d305a1
 "voicepassive" camnorm=1 alphamode=2 height=256 width=256 img=4bc097da
 "mylogo" camnorm=1 alphamode=2 height=512 width=1024 img=748a33dd png=f82f7a37
-"click" camnorm=1 alphamode=2 height=64 width=64 img=7c334e80 png=b3143258
-"gachapong" camnorm=1 alphamode=2 height=1024 width=1024 img=05d19061 png=13fddc7d
-"gcloading1" camnorm=1 alphamode=2 height=128 width=128 img=c20a08d7 png=9c5b646f
-"gcloading2" camnorm=1 alphamode=2 height=128 width=128 img=4635571c png=90e4e5c8
-"gcloading3" camnorm=1 alphamode=2 height=128 width=128 img=52195d7e png=82d09dde
-"gcloading4" camnorm=1 alphamode=2 height=128 width=128 img=9307e904 png=ee9354f3
 "i_cuff" camnorm=1 alphamode=2 height=64 width=64 img=553b84b5 png=c555e3d7
 "m_passengerdb" camnorm=1 alphamode=2 height=256 width=256 img=f80cc8e8 png=0612e6cc
 "m_passengerdbclose" camnorm=1 alphamode=2 height=256 width=256 img=0726c2d1 png=c4e744dd
+"click" camnorm=1 alphamode=2 height=64 width=64 img=7c334e80 png=1bb45f29
+"craftfashion" camnorm=1 alphamode=2 height=512 width=512 img=95e85b73 png=338f7cb2
+"gcloading1" camnorm=1 alphamode=2 height=128 width=128 img=c20a08d7 png=46bda8d2
+"gcloading2" camnorm=1 alphamode=2 height=128 width=128 img=4635571c png=0af59967
+"gcloading3" camnorm=1 alphamode=2 height=128 width=128 img=52195d7e png=d599925f
+"gcloading4" camnorm=1 alphamode=2 height=128 width=128 img=9307e904 png=78217dc0
+"gachapong" camnorm=1 alphamode=2 height=512 width=1024 img=eca616df png=f875a1f9
