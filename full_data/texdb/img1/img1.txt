@@ -89,3 +89,9 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "bs5" camnorm=1 alphamode=2 height=256 width=256 img=791fb188 png=6f251caa
 "bs6" camnorm=1 alphamode=2 height=256 width=256 img=707cc2cb png=53c7b610
 "bs7" camnorm=1 alphamode=2 height=256 width=256 img=6d4c7480 png=4e3e04d6
+"coloblue" height=64 width=64 img=f86c8b00 png=1c673e22
+"colorblack" height=64 width=64 img=e7da8f80 png=205f0869
+"Material_lineColor" height=512 width=512 img=4268b41a png=f1a37c17
+"MaterialFB_baseColor" height=1024 width=2048 img=431303ba png=4674fcba
+"tank_water_base" height=512 width=512 img=0e50be84 png=5f97716f
+"duck_base" height=512 width=512 img=d65df719 png=f059c9b9
