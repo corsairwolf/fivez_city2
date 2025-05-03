@@ -18,10 +18,17 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "i_cuff" camnorm=1 alphamode=2 height=64 width=64 img=553b84b5 png=c555e3d7
 "m_passengerdb" camnorm=1 alphamode=2 height=256 width=256 img=f80cc8e8 png=0612e6cc
 "m_passengerdbclose" camnorm=1 alphamode=2 height=256 width=256 img=0726c2d1 png=c4e744dd
-"click" camnorm=1 alphamode=2 height=64 width=64 img=7c334e80 png=1bb45f29
-"craftfashion" camnorm=1 alphamode=2 height=512 width=512 img=95e85b73 png=338f7cb2
-"gcloading1" camnorm=1 alphamode=2 height=128 width=128 img=c20a08d7 png=46bda8d2
-"gcloading2" camnorm=1 alphamode=2 height=128 width=128 img=4635571c png=0af59967
-"gcloading3" camnorm=1 alphamode=2 height=128 width=128 img=52195d7e png=d599925f
-"gcloading4" camnorm=1 alphamode=2 height=128 width=128 img=9307e904 png=78217dc0
-"gachapong" camnorm=1 alphamode=2 height=512 width=1024 img=eca616df png=f875a1f9
+"icon_save" camnorm=1 alphamode=2 height=64 width=64 img=7a88ad5b png=0e82170d
+"icon_rotate" camnorm=1 alphamode=2 height=64 width=64 img=61be9b7a png=bf33394d
+"icon_move" camnorm=1 alphamode=2 height=64 width=64 img=24455216 png=14c17702
+"icon_scale" camnorm=1 alphamode=2 height=64 width=64 img=9d3ac30e png=30c913e0
+"icon_exit" camnorm=1 alphamode=2 height=64 width=64 img=dad2f790 png=948b5112
+"gachapong" camnorm=1 alphamode=2 height=512 width=1024 img=eca616df
+"click" camnorm=1 alphamode=2 height=64 width=64 img=7c334e80
+"gcloading1" camnorm=1 alphamode=2 height=128 width=128 img=c20a08d7
+"gcloading2" camnorm=1 alphamode=2 height=128 width=128 img=4635571c
+"gcloading3" camnorm=1 alphamode=2 height=128 width=128 img=52195d7e
+"gcloading4" camnorm=1 alphamode=2 height=128 width=128 img=9307e904
+"craftfashion" camnorm=1 alphamode=2 height=512 width=512 img=95e85b73
+"1vs1ui" camnorm=1 alphamode=2 height=256 width=512 img=f5b10121
+"fyze" camnorm=1 alphamode=2 height=512 width=512 img=dd1b1aab
