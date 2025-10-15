@@ -1,0 +1,8 @@
+{
+  "client" : {
+    "settings" : {
+      "modify_game" : true,
+      "picture_game" : false
+    }
+  }
+}

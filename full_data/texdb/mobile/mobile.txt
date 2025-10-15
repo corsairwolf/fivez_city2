@@ -1,0 +1,198 @@
+cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=4 defaultstream=1
+"Detail_Asphalt" width=128 height=128 png=8c502a27 img=76c5d768 isdetail=1
+"Detail_Grass" width=128 height=128 png=a115ce9a img=7fc900ea isdetail=2
+"Detail_Sand" width=128 height=128 png=4e09f802 img=ffa69a32 isdetail=3
+"Detail_Water" width=128 height=128 png=08fb2768 img=ed411882 isdetail=4
+"Detail_Bark" width=128 height=128 png=37d4c63d img=94ef2472 isdetail=5
+"Detail_Stucco" width=128 height=128 png=1cd7ae94 img=052ca341 isdetail=6
+"Detail_Rock" width=128 height=128 png=32d8110c img=dca43bbc isdetail=7
+"Detail_Fabric" width=128 height=128 png=2e766f51 img=403eb0fd isdetail=8
+"Detail_Concrete" width=128 height=128 png=6a830928 img=01828f13 isdetail=9
+"Detail_WoodHoriz" width=128 height=128 png=2c1a9a45 img=4f1322a6 isdetail=10
+"Detail_WoodVert" width=128 height=128 png=516f5890 img=4df13586 isdetail=11
+"Detail_Bark2" width=128 height=128 png=80fbb1d5 img=90080bf2 isdetail=12
+"Detail_Gravel" width=128 height=128 png=5427f538 img=1a2d6960 isdetail=13
+"Detail_Darken" width=128 height=128 png=a5394b58 img=6cdfda00 isdetail=14
+"ArcadeButton_ExitDown" width=256 height=256 png=aa1f30b6 img=65d7d4db alphamode=2
+"ArcadeButton_ExitUp" width=256 height=256 png=2f325c0f img=c60a8258 alphamode=2
+"ArcadeButton_ResetDown" width=256 height=256 png=b5e27c48 img=53d02c19 alphamode=2
+"ArcadeButton_ResetUp" width=256 height=256 png=25f43197 img=5ee0d568 alphamode=2
+"hud_arrow" width=128 height=128 png=a2204e90 img=1a78d6d3 alphamode=2
+"ArcadeJoystick_Base" width=256 height=256 png=4598a526 img=73892b38 alphamode=2
+"ArcadeJoystick_Knob" width=512 height=512 png=c79daac9 img=8f8bf6e1 alphamode=2
+"SliderBG" width=32 height=32 png=49ce8c50 img=02fc6807 alphamode=2
+"SliderThumb" width=32 height=32 png=bbacd19e img=120bcdf3 alphamode=2
+"white" width=4 height=4 png=f8f26859 img=fc1c05de
+"shop_barber" width=256 height=256 png=fb855e3b img=e94d5923 alphamode=2
+"GangBackground" width=256 height=128 png=d79f17f2 img=6e98ec56 alphamode=2
+"shop_car_mods" width=256 height=256 png=6ae786da img=070e5c4b alphamode=2
+"shop_ammu_nation" width=256 height=256 png=fb1f3caf img=1752ab6e alphamode=2
+"shop_bodyparts" width=256 height=256 png=38428670 img=14dc84e9 alphamode=2
+"shop_barber2" width=256 height=256 png=42b45c28 img=ff24ab8e alphamode=2
+"shop_clothes2" width=256 height=256 png=1be2248d img=a7a5cea1 alphamode=2
+"circle" width=256 height=256 png=7f0ef3c6 img=1d0fabfc alphamode=2
+"DialogBox" width=128 height=128 png=d44cdf88 img=bc36bf50 alphamode=2
+"shop_clothes3" width=256 height=256 png=7f1add9b img=c1d07ce6 alphamode=2
+"shop_clothes4" width=256 height=256 png=e36fb362 img=6b7bfc9d alphamode=2
+"TouchFinger" width=64 height=128 png=a95a2298 img=cf7866b4 alphamode=2
+"CornerGradient" width=128 height=128 png=c1385d4b img=88fc4ec9 alphamode=2
+"shop_icons" width=256 height=256 png=67c4899e img=b8b47478 alphamode=2
+"lock" width=64 height=64 png=ea0e9ef7 img=1cbc0c4d alphamode=2
+"TVArrow_Left" width=128 height=128 png=93a06352 img=99cd8a5e alphamode=2
+"TVArrow_Right" width=128 height=128 png=ac704558 img=2c086202 alphamode=2
+"TVArrow_LeftPressed" width=256 height=256 png=3fab5c0f img=908eb4c5 alphamode=2
+"TVArrow_RightPressed" width=256 height=256 png=c408141c img=2a945eb8 alphamode=2
+"TVButton" width=512 height=512 png=0554169c img=22f7fa50 alphamode=2
+"TVButton_Pressed" width=512 height=512 png=920a693b img=0360f0b9 alphamode=2
+"hud_tab" width=128 height=32 png=0e6c5e51 img=c86ff57e alphamode=2
+"hud_ticks" width=256 height=256 png=f561baa2 img=9df3bd2f alphamode=2
+"SquareTick" width=256 height=256 png=d33083ab img=1f2e1a1a alphamode=2
+"SwipeArrow" width=64 height=64 png=f4870102 img=18af93b1 alphamode=2
+"crosshair" width=32 height=32 png=a50ad328 img=55ccd402 alphamode=2
+"ButtonsKeyboard" width=512 height=512 png=a8c37004 img=192b4ad6 alphamode=2
+"shop_car_mods2" width=256 height=256 png=f7c1e2a3 img=53284b7f alphamode=2
+"shop_car_mods3" width=256 height=256 png=7e5c5f38 img=03b9a66e alphamode=2
+"bronze_bike" width=128 height=128 png=635005e6 img=d8d4ccf7 alphamode=2
+"silver_bike" width=128 height=128 png=83516031 img=127b25a7 alphamode=2
+"gold_bike" width=128 height=128 png=cc836584 img=c400e018 alphamode=2
+"ButtonsMoga" width=256 height=256 png=51ce79cb img=59f2696f alphamode=2
+"ButtonsMogaPocket" width=256 height=256 png=bc8fbee9 img=4305591d alphamode=2
+"shop_clothes1" width=256 height=256 png=03f144be img=397c995d alphamode=2
+"shop_clothes5" width=256 height=256 png=fbcfaf91 img=82b720a9 alphamode=2
+"shop_clothes6" width=256 height=256 png=03874d1d img=f147c17a alphamode=2
+"shop_clothes7" width=256 height=256 png=b90d9e82 img=36fa7c1d alphamode=2
+"ButtonsIOSSimple" width=256 height=256 png=a1c8dc41 img=46ee69c0 alphamode=2
+"armoricon" width=256 height=256 png=68106aa4 img=51b7bf1e alphamode=2
+"ArrowRight" width=64 height=64 png=c9d42c60 img=7dcc5dbc alphamode=2
+"ArrowLeft" width=64 height=64 png=fe353723 img=6d0a21df alphamode=2
+"HoldButton" width=128 height=64 png=8edda341 img=40b757d1 alphamode=2
+"PokerButton" width=128 height=128 png=5b151050 img=770ed4e9 alphamode=2
+"ArrowLeftPressed" width=64 height=64 png=b5055a2f img=21f391a7 alphamode=2
+"ArrowRightPressed" width=64 height=64 png=b18fe28c img=8eda837f alphamode=2
+"HoldButtonPressed" width=128 height=64 png=f83e8a3e img=35286bde alphamode=2
+"PokerButtonPressed" width=128 height=128 png=d99488da img=a0e70774 alphamode=2
+"ArcadeJoystick_Knob_orange" width=512 height=512 png=d4a4c453 img=1729c30f alphamode=2
+"ArcadeJoystick_Knob_Teal" width=512 height=512 png=2ccefe46 img=9811b2a6 alphamode=2
+"ArcadeJoystick_Knob_white" width=512 height=512 png=dcbc0945 img=6146ee10 alphamode=2
+"WhiteCircle" width=256 height=256 png=f9354505 img=e4f18ef9 alphamode=2
+"ArcadeBlackPressed" width=256 height=256 png=91cd74d1 img=91adcf9d alphamode=2
+"ArcadeBlackReleased" width=256 height=256 png=04411ec7 img=ce16cdea alphamode=2
+"ArcadeGreenPressed" width=256 height=256 png=c6ef1b99 img=739a9c9a alphamode=2
+"ArcadeGreenReleased" width=256 height=256 png=a5312e23 img=630672ba alphamode=2
+"ArcadeRedPressed" width=256 height=256 png=c32cd109 img=ba8bcc18 alphamode=2
+"ArcadeRedReleased" width=256 height=256 png=62a4058d img=3ee276e8 alphamode=2
+"ArcadeYellowPressed" width=256 height=256 png=2fd37b3f img=6c6263c0 alphamode=2
+"ArcadeYellowReleased" width=256 height=256 png=d33a5516 img=d4bf9746 alphamode=2
+"ButtonsMogaPro" width=512 height=512 png=cf0e9d9d img=edf6767d alphamode=2
+"ButtonsXbox360" width=512 height=512 png=e0e402f0 img=77d2c39d alphamode=2
+"ButtonsPS3" width=512 height=512 png=43762c86 img=96cc9e5e alphamode=2
+"accelerate" alphamode=2 height=256 width=256 img=0735544b
+"accelerate_solo" "affiliate=accelerate"
+"AmmunationAccept" alphamode=2 height=256 width=256 img=8691887d
+"Arrow" alphamode=2 height=256 width=256 img=53d9d071
+"BarberAccept" "affiliate=AmmunationAccept"
+"basketball_shoot" alphamode=2 height=256 width=256 img=8e6584b8
+"basketball_trick" alphamode=2 height=256 width=256 img=22ad5417
+"BJContinue" alphamode=2 height=256 width=256 img=7dcf9bb6
+"BJDouble" alphamode=2 height=256 width=256 img=b4bca48b
+"BJHit" alphamode=2 height=256 width=256 img=04c334f4
+"BJQuit" alphamode=2 height=256 width=256 img=d0eb22ab
+"BJSplit" alphamode=2 height=256 width=256 img=ecae9963
+"BJStand" alphamode=2 height=256 width=256 img=aa0a9af8
+"BlueArrow" alphamode=2 height=256 width=256 img=31a4355e
+"brake" alphamode=2 height=256 width=256 img=bce8ad0e
+"brassknuckle" alphamode=2 height=256 width=256 img=65cd8b9c
+"cam-toggle" alphamode=2 height=256 width=256 img=d3c2cf48
+"CarModsAccept" alphamode=2 height=256 width=256 img=f5da992e
+"ClothesAccept" alphamode=2 height=256 width=256 img=466ac014
+"crane_down" alphamode=2 height=256 width=256 img=fd9656ec
+"crane_release" alphamode=2 height=256 width=256 img=58936187
+"crane_up" alphamode=2 height=256 width=256 img=590cc630
+"crouch" alphamode=2 height=256 width=256 img=d44b29db
+"drop_item" "affiliate=crane_down"
+"enterandexit" alphamode=2 height=256 width=256 img=a50061ce
+"fadeinbox" alphamode=2 height=256 width=256 img=3009731b
+"FistBump" "affiliate=brassknuckle"
+"flamethrower" alphamode=2 height=256 width=256 img=fa15d131
+"Gift" alphamode=2 height=256 width=256 img=824d303b
+"goggles" "affiliate=flamethrower"
+"GreenArrow" alphamode=2 height=256 width=256 img=cd21901a
+"GymAccept" alphamode=2 height=256 width=256 img=abd2dace
+"handbrake" alphamode=2 height=256 width=256 img=eb21db7f
+"horn" alphamode=2 height=256 width=256 img=143d5d0a
+"hud_analognub" alphamode=2 height=64 width=64 img=d70e77b0
+"hud_bat" "affiliate=brassknuckle"
+"hud_bicycle" alphamode=2 height=256 width=256 img=9715f112
+"hud_bike" "affiliate=hud_bicycle"
+"hud_boat" alphamode=2 height=256 width=256 img=b0edd2f4
+"hud_bomb" alphamode=2 height=256 width=256 img=ff2e4632
+"hud_burnout" alphamode=2 height=256 width=256 img=a15c2b77
+"hud_buy" "affiliate=AmmunationAccept"
+"hud_camera" "affiliate=flamethrower"
+"hud_cane" "affiliate=brassknuckle"
+"hud_car" "affiliate=CarModsAccept"
+"hud_Cellphone" alphamode=2 height=256 width=256 img=a02901ed
+"hud_chainsaw" "affiliate=brassknuckle"
+"hud_check" "affiliate=GymAccept"
+"hud_chopper" alphamode=2 height=256 width=256 img=b8c480c7
+"hud_circle" alphamode=2 height=256 width=256 img=3a9c9b6c
+"hud_crouch" "affiliate=crouch"
+"hud_dance" alphamode=2 height=256 width=256 img=00215629
+"hud_dance_alt" alphamode=2 height=256 width=256 img=04a69f6e
+"hud_detonator" "affiliate=flamethrower"
+"hud_dildo1" "affiliate=brassknuckle"
+"hud_dildo2" "affiliate=brassknuckle"
+"hud_dive" "affiliate=crane_down"
+"hud_drop_jetpack" alphamode=2 height=256 width=256 img=8af159f4
+"hud_extinguisher" "affiliate=flamethrower"
+"hud_flowers" "affiliate=brassknuckle"
+"hud_golfclub" "affiliate=brassknuckle"
+"hud_katana" "affiliate=brassknuckle"
+"hud_knife" "affiliate=brassknuckle"
+"hud_left" alphamode=2 height=256 width=256 img=15b39b88
+"hud_lockon" alphamode=2 height=256 width=256 img=78920cbe
+"hud_magnet" alphamode=2 height=256 width=256 img=33f3d1ee
+"hud_minus" alphamode=2 height=256 width=256 img=b7bb9302
+"hud_monstertruck" "affiliate=CarModsAccept"
+"hud_nightstick" "affiliate=brassknuckle"
+"hud_nitro" alphamode=2 height=256 width=256 img=5e8e361e
+"hud_parachute" "affiliate=crane_up"
+"hud_plane" alphamode=2 height=256 width=256 img=415a8841
+"hud_plus" alphamode=2 height=256 width=256 img=7e2f8b64
+"hud_pool" alphamode=2 height=256 width=256 img=36c6f8b5
+"hud_poolcue" "affiliate=brassknuckle"
+"hud_right" alphamode=2 height=256 width=256 img=5f8c9799
+"hud_rockets" alphamode=2 height=256 width=256 img=a9b9a872
+"hud_spraycan" "affiliate=brassknuckle"
+"hud_stinger" alphamode=2 height=256 width=256 img=18a99e18
+"hud_swapgun" alphamode=2 height=256 width=256 img=9322e077
+"hud_swim" alphamode=2 height=256 width=256 img=d3fa0779
+"hud_tank_left" alphamode=2 height=256 width=256 img=75c34cd4
+"hud_tank_right" alphamode=2 height=256 width=256 img=8f362b42
+"hud_teargas" "affiliate=basketball_shoot"
+"hud_throw" "affiliate=basketball_shoot"
+"hud_trailer" alphamode=2 height=256 width=256 img=918a3177
+"hud_train" "affiliate=hud_trailer"
+"hud_wheelie" alphamode=2 height=256 width=256 img=792101e0
+"hud_x" alphamode=2 height=256 width=256 img=e4f92b37
+"hydraulicCar" "affiliate=crane_up"
+"kiss" alphamode=2 height=256 width=256 img=69c30705
+"leftshoot" alphamode=2 height=256 width=256 img=8d138cb5
+"LetsGoHand" alphamode=2 height=256 width=256 img=71a37cf3
+"menu_back" "affiliate=hud_tank_left"
+"menu_down" "affiliate=crane_down"
+"menu_up" "affiliate=crane_up"
+"mission_start" "affiliate=GymAccept"
+"No" alphamode=2 height=256 width=256 img=86862ac2
+"punch" "affiliate=brassknuckle"
+"radiostation" alphamode=2 height=256 width=256 img=ee9fbbdf
+"RedArrow" alphamode=2 height=256 width=256 img=24f538b9
+"shoot" "affiliate=flamethrower"
+"ShopBackground" alphamode=2 height=256 width=256 img=92390b90
+"shovel" "affiliate=brassknuckle"
+"sprint" alphamode=2 height=256 width=256 img=65e4fc3e
+"StopHand" "affiliate=BJStand"
+"StoreBuy" "affiliate=AmmunationAccept"
+"TattooAccept" "affiliate=AmmunationAccept"
+"YellowArrow" alphamode=2 height=256 width=256 img=25143cde
+"Yes" "affiliate=BJContinue"
