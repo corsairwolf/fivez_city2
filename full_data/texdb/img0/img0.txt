@@ -19,12 +19,10 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "m_passengerdb" camnorm=1 alphamode=2 height=256 width=256 img=f80cc8e8 png=0612e6cc
 "m_passengerdbclose" camnorm=1 alphamode=2 height=256 width=256 img=0726c2d1 png=c4e744dd
 "click" camnorm=1 alphamode=2 height=64 width=64 img=7c334e80 png=1bb45f29
-"craftfashion" camnorm=1 alphamode=2 height=512 width=512 img=95e85b73 png=338f7cb2
 "gcloading1" camnorm=1 alphamode=2 height=128 width=128 img=c20a08d7 png=46bda8d2
 "gcloading2" camnorm=1 alphamode=2 height=128 width=128 img=4635571c png=0af59967
 "gcloading3" camnorm=1 alphamode=2 height=128 width=128 img=52195d7e png=d599925f
 "gcloading4" camnorm=1 alphamode=2 height=128 width=128 img=9307e904 png=78217dc0
-"gachapong" camnorm=1 alphamode=2 height=512 width=1024 img=eca616df png=f875a1f9
 "icon_save" camnorm=1 alphamode=2 height=64 width=64 img=7a88ad5b png=0e82170d
 "icon_rotate" camnorm=1 alphamode=2 height=64 width=64 img=61be9b7a png=bf33394d
 "icon_move" camnorm=1 alphamode=2 height=64 width=64 img=24455216 png=14c17702
@@ -41,4 +39,7 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "td_sheet8" camnorm=1 alphamode=2 height=512 width=512 img=9bc1efd8
 "td_sheet9" camnorm=1 alphamode=2 height=512 width=512 img=5e6f07e4
 "td_sheet3" camnorm=1 alphamode=2 height=512 width=512 img=4d60fda3 png=698b44c3
-"fyze_gps" camnorm=1 alphamode=2 height=256 width=256 img=f65c7dfb png=916baacb
+"radiolist" camnorm=1 alphamode=2 height=128 width=512 img=6e571d8b png=12eca925
+"craftfashion" camnorm=1 alphamode=2 height=512 width=512 img=950e7100 png=be85f017
+"gachapong" camnorm=1 alphamode=2 height=512 width=1024 img=7d9205ef png=f34460a7
+"fyze_gps" camnorm=1 alphamode=2 height=256 width=256 img=4abf0197
